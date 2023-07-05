@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2a2e0c50-e00d-4a6a-825b-959356e69de6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/FrontMyFoxyArt",
+    "appService.deploySubpath": "Front"
+}

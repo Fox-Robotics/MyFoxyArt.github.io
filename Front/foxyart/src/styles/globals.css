@@ -1,0 +1,50 @@
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer components {
+    * {
+        max-width: 100%
+    }
+    .square-decoration::before {
+        content: "";
+        position: absolute;
+        left: calc(50% - 30px);
+        top: -10px;
+        width: 60px;
+        height: 60px;
+        background: #fff49c;
+        transform: rotate(45deg);
+        z-index: -1;
+    }
+    .triangle-decoration::before {
+        content: "";
+        position: absolute;
+        left: calc(50% - 40px);
+        top: -15px;
+        height: 0; 
+        border-left: 40px solid transparent;
+        border-right: 40px solid transparent;
+        border-bottom: 60px solid #fff49c;
+        z-index: -1;
+    }
+    .circle-decoration::before {
+        content: "";
+        position: absolute;
+        left: calc(50% - 30px);
+        top: -10px;
+        width: 60px;
+        height: 60px;
+        border-radius: 999px;
+        background: #fff49c;
+        transform: rotate(45deg);
+        z-index: -1;
+    }
+
+    .bg-fox-pattern {
+        background-repeat: repeat;
+        background-size: 50vw 48vh;
+        background-image: url("../images/background_pattern.png");
+    }
+}
