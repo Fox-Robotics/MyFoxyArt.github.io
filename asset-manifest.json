@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyFoxyArt.github.io/static/css/main.58f6f546.css",
-    "main.js": "/MyFoxyArt.github.io/static/js/main.97663c8a.js",
+    "main.js": "/MyFoxyArt.github.io/static/js/main.06cc198d.js",
     "static/js/787.97e79d4d.chunk.js": "/MyFoxyArt.github.io/static/js/787.97e79d4d.chunk.js",
     "static/media/example (3).jpeg": "/MyFoxyArt.github.io/static/media/example (3).26c2949e633a7ce96886.jpeg",
     "static/media/example (4).jpeg": "/MyFoxyArt.github.io/static/media/example (4).58ae691a79fb0858576f.jpeg",
@@ -17,11 +17,11 @@
     "static/media/icono_1.png": "/MyFoxyArt.github.io/static/media/icono_1.37dad9cc82a713aa19fa.png",
     "index.html": "/MyFoxyArt.github.io/index.html",
     "main.58f6f546.css.map": "/MyFoxyArt.github.io/static/css/main.58f6f546.css.map",
-    "main.97663c8a.js.map": "/MyFoxyArt.github.io/static/js/main.97663c8a.js.map",
+    "main.06cc198d.js.map": "/MyFoxyArt.github.io/static/js/main.06cc198d.js.map",
     "787.97e79d4d.chunk.js.map": "/MyFoxyArt.github.io/static/js/787.97e79d4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58f6f546.css",
-    "static/js/main.97663c8a.js"
+    "static/js/main.06cc198d.js"
   ]
 }
