@@ -16,7 +16,7 @@ export default function Home() {
   const generateImageHandler = (e) => {
     e.preventDefault();
 
-    window.location.href = "/#/foxyimage?q=" + searchText;
+    window.location.href = "/MyFoxyArt.github.io/#/foxyimage?q=" + searchText;
   };
   const textChangeHandler = (e) => {
     setSearchText(e.target.value);
